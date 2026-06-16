@@ -12,7 +12,7 @@ client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 messages = []
 MAX_HISTORY = 20
 
-print("========================================")
+print("========================================") 
 print("        Groq AI Chatbot")
 print("   Type 'quit' or 'exit' to stop")
 print("========================================\n")
