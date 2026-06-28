@@ -38,7 +38,7 @@ SETUP INSTRUCTIONS
 ------------------
 
 1. Clone the repository
-   git clone https://github.com/CrwazzyCupcakes/Gen-ai-Workshop-CBIT_Edspark/Memory_chatbot
+   git clone https://github.com/CrwazzyCupcakes/Gen-ai-Workshop-CBIT_Edspark/tree/main/Memory_chatbot
 
 2. Create a virtual environment
    python -m venv venv
